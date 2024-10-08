@@ -1,0 +1,33 @@
+/* blog/static/blog/style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+.post {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 5px;
+    max-width: 600px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.post h2 {
+    color: #2c3e50;
+}
+
+.post img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.post p {
+    color: #555;
+    line-height: 1.6;
+}
